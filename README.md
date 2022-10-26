@@ -16,6 +16,10 @@ $ npm install
 ## Running the app
 
 ```bash
+# run the server at json-server
+$ cd json-server
+$ json-server --watch db.json
+
 # development
 $ npm react-native run-android
 ```
