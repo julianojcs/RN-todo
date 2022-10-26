@@ -1,0 +1,46 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "details": "Learn React from the official documentation",
+      "completedAt": "2020-10-07T12:00:00.000Z",
+      "createdAt": "2020-05-19T12:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux",
+      "details": "Learn Redux from the official documentation",
+      "completedAt": "2022-10-26T02:50:11.321Z",
+      "createdAt": "2021-03-11T12:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "title": "Learn JavaScript and EcmaScript",
+      "details": "Learn EcmaScript from the official documentation and watch the videos on YouTube",
+      "completedAt": null,
+      "createdAt": "2022-05-01T12:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "title": "Learn NodeJcS",
+      "details": "Learn NodeJcS from the official documentation",
+      "completedAt": null,
+      "createdAt": "2021-05-01T12:00:00.000Z"
+    },
+    {
+      "title": "Aniversário da Ana Maria",
+      "details": "Festinha no final de semana.\nLembrar de comprar presente",
+      "createdAt": "2022-10-26T00:56:19.251Z",
+      "completedAt": null,
+      "id": 5
+    },
+    {
+      "title": "Ir ao médico na terça-feira dia 20",
+      "details": "Lembrar de levar os receituários.\nEndereço: Rua dos Funcionários 33, Itaparica",
+      "createdAt": "2022-10-26T01:46:11.482Z",
+      "completedAt": null,
+      "id": 6
+    }
+  ]
+}
